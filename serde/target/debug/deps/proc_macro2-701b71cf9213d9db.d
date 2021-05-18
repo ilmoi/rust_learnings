@@ -1,0 +1,12 @@
+/Users/ilmoi/Dropbox/rust/_learning/serde/target/debug/deps/proc_macro2-701b71cf9213d9db.rmeta: /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/lib.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/marker.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/parse.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/detection.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/fallback.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/wrapper.rs
+
+/Users/ilmoi/Dropbox/rust/_learning/serde/target/debug/deps/libproc_macro2-701b71cf9213d9db.rlib: /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/lib.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/marker.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/parse.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/detection.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/fallback.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/wrapper.rs
+
+/Users/ilmoi/Dropbox/rust/_learning/serde/target/debug/deps/proc_macro2-701b71cf9213d9db.d: /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/lib.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/marker.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/parse.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/detection.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/fallback.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/wrapper.rs
+
+/Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/lib.rs:
+/Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/marker.rs:
+/Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/parse.rs:
+/Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/detection.rs:
+/Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/fallback.rs:
+/Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/wrapper.rs:

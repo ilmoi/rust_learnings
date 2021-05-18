@@ -1,0 +1,13 @@
+/Users/ilmoi/Dropbox/rust/_learning/serde/target/debug/deps/quote-2b4e9202461bfdcd.rmeta: /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/Users/ilmoi/Dropbox/rust/_learning/serde/target/debug/deps/libquote-2b4e9202461bfdcd.rlib: /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/Users/ilmoi/Dropbox/rust/_learning/serde/target/debug/deps/quote-2b4e9202461bfdcd.d: /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs:
+/Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs:
+/Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs:
+/Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs:
+/Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs:
+/Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs:
+/Users/ilmoi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs:
