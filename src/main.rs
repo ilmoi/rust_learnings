@@ -7,5 +7,7 @@ To run a function:
  */
 
 fn main() {
-    _learning::lifetimes::crust_of_rust_lifetimes::main();
+    // _learning::traits_trait_objects::crust_of_rust_dispatch_fat_pointers::main();
+    // _learning::lifetimes::crust_of_rust_lifetimes::main();
+    _learning::iterators::crust_of_rust_iterators::main();
 }
