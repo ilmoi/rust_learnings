@@ -6,8 +6,11 @@ To run a function:
 4. access the folder name below starting with _learning::
  */
 
-fn main() {
+#[tokio::main]
+async fn main() {
     // _learning::traits_trait_objects::crust_of_rust_dispatch_fat_pointers::main();
     // _learning::lifetimes::crust_of_rust_lifetimes::main();
-    _learning::iterators::crust_of_rust_iterators::main();
+    // _learning::iterators::crust_of_rust_iterators::main();
+    // _learning::actix_web::actix_web::main();
+    _learning::play_tokio::play_tokio::main().await;
 }
