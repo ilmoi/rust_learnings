@@ -10,6 +10,9 @@ LEARNING: order of operations now:
 3)first block runs
 
 todo this is weird - why does the 2nd block run before the 1st block?
+ - https://stackoverflow.com/questions/67989412/unexpected-tokiotaskspawn-blocking-behavior
+ - https://github.com/tokio-rs/tokio/discussions/3858
+ the second answer above sort of hints at what might be the answer - I think spinning up a blocking thread takes extra time, which is why it's slower than the async tasks on current thread
 
 VS EXPECTATION: not what I expected at all
  */
@@ -77,3 +80,7 @@ pub async fn i_take_random_time() {
     }
     tokio::time::sleep(Duration::from_secs(delay)).await;
 }
+
+
+
+
