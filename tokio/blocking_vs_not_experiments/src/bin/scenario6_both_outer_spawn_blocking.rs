@@ -6,9 +6,7 @@ WHAT CHANGED: trying spawn_blocking for BOTH
 
 LEARNING: acts exactly like scenario 4 - all 20 start together > print delay > end together
 
-todo I guess I don't understand spawn_blocking, this feels wrong
-
-VS EXPECTATION: not what I expected at all
+VS EXPECTATION: makes sense given spawn_blocking offloads to a diff thread and that's all
  */
 
 #[tokio::main]
